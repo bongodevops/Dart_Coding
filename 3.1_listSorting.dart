@@ -1,5 +1,5 @@
 void main() {
-  List<String> nameList = ["Hafizur", "Rahman", "Omar", "Toha", "Nayeem"];
+  List<String> nameList = ["Hafiz", "Rahman", "Omar", "Taha", "Naeem"];
   print(nameList);
 
   String firstItem = nameList.first;
@@ -16,7 +16,7 @@ void main() {
   print(nameList);
   nameList.addAll(["Salam", "Kalam", "Zakir"]);
   print(nameList);
-  nameList.insert(0, "Tohura");
+  nameList.insert(0, "Thuraya");
   print(nameList);
   nameList.insertAll(2, ["Dart", "flutter", "Android"]);
   print(nameList);
@@ -33,7 +33,7 @@ void main() {
   print(nameList);
   nameList.removeLast();
   print(nameList);
-  nameList.replaceRange(2, 7, ["Pabna"]);
+  nameList.replaceRange(2, 7, ["Dhaka"]);
   print(nameList);
   
   //single check

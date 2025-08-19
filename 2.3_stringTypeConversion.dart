@@ -1,7 +1,7 @@
 void main() {
   int age = 15;
   double num = 4.80;
-  String name = 'Nayeem';
+  String _ = 'Naeem';
   String doubleValue = '3.12';
   String stringValue = '3';
 

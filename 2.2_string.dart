@@ -1,5 +1,5 @@
 void main() {
-  String name = "Hafizur Rhaman Omar\nAddress: Pabna\t\t\t Bangladesh";
+  String name = "Hafiz Raman Omar\nAddress: Pabna\t\t\t Bangladesh";
   print(name);
   String str1 = 'This is a single line string';
   String str2 = "This is a single line string";
@@ -16,11 +16,11 @@ This is a multiline line string """;
   print(str4);
 
   String userName = 'Toha';
-  userName = "Nayeem";
-  userName = '''Tohura''';
+  userName = "Naeem";
+  userName = '''Thuraya''';
   print(userName);
 
-  String address = 'Pabna';
+  String address = 'Dhaka';
   int age = 15;
 
   //String concatenation
